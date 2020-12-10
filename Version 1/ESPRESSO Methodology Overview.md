@@ -25,7 +25,7 @@ The data is available in this repo under 'Version 1'. The tax data is provided a
 
 # Contents
 There are four parts to this methodology:
-### 1. General principles
+### [1. General principles](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/General%20principles.md)
 This section shows the principles behind the calculations and methodology used in version 1 of the ESPRESSO data. These principles set out how we split out or amalgamated data to identify tax and expenditure data at a local authority level.
 
 ### [2. Tax data](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md)
