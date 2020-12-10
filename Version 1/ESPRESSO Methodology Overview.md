@@ -1,10 +1,12 @@
 # ESPRESSO Methodology
 
-|Version|1.0|
-|Author|Christopher Pope, New Economy|
-|Creation date|20/03/17|
-|Data source (e.g. database)|Multiple databases|
-|Parameters (e.g. timeframes)|2013/14 - 2014/15|
+
+| Version | 1.0 |
+| Author | Christopher Pope, New Economy |
+| Creation date | 20/03/17 |
+| Data source (e.g. database) | Multiple databases |
+| Parameters (e.g. timeframes) | 2013/14 - 2014/15 |
+
 
 ***NOTE: This is a slightly amended version of a document originally released as a PDF in March 2017.***
 
