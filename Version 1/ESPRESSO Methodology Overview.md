@@ -42,3 +42,6 @@ There are also four appendices to supplement the information:
  - Appendix B: Calculations for expenditure data
  - Appendix C: List of local authority districts
  - Appendix D: Local authority district lookups
+ 
+ ---
+ #### [NEXT: General principles >](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/General%20principles.md)
