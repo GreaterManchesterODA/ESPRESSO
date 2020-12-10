@@ -1,6 +1,5 @@
 ---
-#### < PREVIOUS: ESPRESSO methodology Overview
-#### NEXT: Tax data >
+#### [< PREVIOUS: ESPRESSO Methodology Overview](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [Main Intro](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [NEXT: Tax data methodology >](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md)
 ---
 
 # General principles
