@@ -7,6 +7,7 @@
 | Creation date | 20th March 2017 |
 | Data source (e.g. database) | Multiple databases |
 | Parameters (e.g. timeframes) | 2013/14 - 2014/15 |
+|||
 
 
 ***NOTE: This is a slightly amended version of a document originally released as a PDF in March 2017.***
@@ -24,16 +25,16 @@ The data is available in this repo under 'Version 1'. The tax data is provided a
 
 # Contents
 There are four parts to this methodology:
-## 1. General principles
+### 1. General principles
 This section shows the principles behind the calculations and methodology used in version 1 of the ESPRESSO data. These principles set out how we split out or amalgamated data to identify tax and expenditure data at a local authority level.
 
-## 2. Tax data
+### [2. Tax data](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md)
 This section explains the sources of tax data, and the methods of disaggregation and assignment to local authority areas.
 
-## 3. Expenditure data
+### [3. Expenditure data](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Expenditure%20data%20methodology.md)
 This section explains the sources of public sector expenditure data, and the methods of disaggregation and assignment to local authority areas.
 
-## 4. Future developments
+### [4. Future developments](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Future%20developments.md)
 This section explores potential future developments of version 1 of the ESPRESSO project over time.
 
 There are also four appendices to supplement the information:
