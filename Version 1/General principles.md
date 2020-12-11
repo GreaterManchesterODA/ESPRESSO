@@ -23,3 +23,7 @@ The general principles are:
 A more general approach has been to differentiate public sector expenditure between direct expenditure on public service delivery and national spend that does not have a specific geographic focus. This highlights a specific caveat to the use of the data: much of the national spend is still geographically focused (e.g. Whitehall expenditure in central government functions, MoJ expenditure at specific court locations, MoD expenditure at specific military bases).
 
 The analysis has summed all national government expenditure and then disaggregated down to the local level. As more data become available, the ESPRESSO tool will be expanded to consider how national government expenditure can be geographically disaggregated.
+
+---
+#### [< PREVIOUS: ESPRESSO Methodology Overview](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [Main Intro](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [NEXT: Tax data methodology >](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md)
+---
