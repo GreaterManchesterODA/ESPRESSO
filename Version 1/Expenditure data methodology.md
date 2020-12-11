@@ -1,3 +1,7 @@
+---
+#### [< PREVIOUS: Tax data methodology](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md) | [Main Intro](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [NEXT: Future developments >](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Future%20developments.md)
+---
+
 # Expenditure data
 
 Expenditure data come from a wider variety of sources than tax data. This is because public sector expenditure covers a much wider array of agencies and organisations, as well as broad themes and categories of spend, than tax data. The complication of tax data is largely in the multiple rules around what specifically is taxed, and how that tax applies geographically. In comparison, expenditure data are complex in that multiple organisations, covering multiple geographies, spend public monies according to various expenditure rules.
@@ -13,3 +17,7 @@ For CCG areas, the ONS lookup for LSOAs to CCGs was used alongside population es
 The disaggregation to local areas was based on the local areas that the particular authority covered. This may produce some erroneous results, especially where authorities responsible for expenditure did not wholly cover an area. In the case of National Park Authorities, where no direct look-up was available, the split has been based on the entire population of the areas covered, even if the national park covers only a portion of that area. For example, the Peak District National Park only partly covers Oldham, and yet the entire Oldham population has been used to calculate the proportion of spend by the National Park Authority within Oldham.
 
 The table in Appendix B shows how the disaggregations of the expenditure data have been made to the local authority level.
+
+---
+#### [< PREVIOUS: Tax data methodology](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Tax%20data%20methodology.md) | [Main Intro](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/ESPRESSO%20Methodology%20Overview.md) | [NEXT: Future developments >](https://github.com/GreaterManchesterODA/espresso/blob/main/Version%201/Future%20developments.md)
+---
