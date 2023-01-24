@@ -1,7 +1,7 @@
 # ESPRESSO
 This repository covers the ESPRESSO project - the datasets, lookups and tool for exploring tax and public sector expenditure in local areas.
 
-ESPRESSO Is a backronym. It stands for Estimated and Simplified Public Revenue and Expenditure Standardised Statistical Output.
+ESPRESSO is a backronym. It stands for Estimated and Simplified Public Revenue and Expenditure Standardised Statistical Output.
 
 ## Background
 ### Tax and spend analysis for Greater Manchester
