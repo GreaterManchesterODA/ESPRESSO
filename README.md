@@ -1,6 +1,8 @@
 # ESPRESSO
 This repository covers the ESPRESSO project - the datasets, lookups and tool for exploring tax and public sector expenditure in local areas.
 
+ESPRESSO Is a backronym. It stands for Estimated and Simplified Public Revenue and Expenditure Standardised Statistical Output.
+
 ## Background
 ### Tax and spend analysis for Greater Manchester
 In 2012/12, the New Economy research team pulled together an analysis of total tax take and total public sector expenditure in Greater Manchester. This included an analysis at a district level, and numerous interviews and discussions with heads of finance at several public sector organisations.
